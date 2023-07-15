@@ -4,4 +4,7 @@ def clear_it():
     document.getElementById('destination').innerHTML = ""
 
 def experiment_1():
-    document.querySelector('.experiment1').style.background = 'red';
+    el = document.querySelector('.experiment1')
+    el.textContent = "Oppa Gangnam Style!";
+
+experiment_1()
