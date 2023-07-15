@@ -1,0 +1,8 @@
+{
+	"version": 3,
+	"file": "hello.js",
+	"sources": [
+		"hello.py"
+	],
+	"mappings": "AAAA;AAMA;AANA;AAAA;AACA;AAAA;AACA;AACA;AAAA;AAEA;AACA;AAAA;AAAA"
+}
