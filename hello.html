@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="module">
+import * as hello from './__target__/hello.js';
+window.hello = hello;
+</script>
+    <button type="button" onclick="hello.say_hello()">Click</button>
+    <button type="button" onclick="hello.clear_it()">Clear</button>
+<div id="destination"></div>
+</body>
+</html>
+
