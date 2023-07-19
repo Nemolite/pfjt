@@ -1,8 +1,0 @@
-{
-	"version": 3,
-	"file": "external_jq.js",
-	"sources": [
-		"external_jq.py"
-	],
-	"mappings": "AAAA;AAQA;AARA;AAEA;AACA;AACA;AAAA;AAEA;AAAA;AAEA;AAAA"
-}
