@@ -10,7 +10,8 @@ def App():
     return [
         React.createElement('button', {'onClick': say_hello}, "Click Me!"),
         React.createElement('button', {'onClick': clear_it}, "Clear"),
-        React.createElement('div', None, val)
+        React.createElement('div', None, val),
+        React.createElement('h1', None, 'Hello,World')
     ]
 
 def render():
